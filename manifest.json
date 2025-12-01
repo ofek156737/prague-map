@@ -2,7 +2,7 @@
   "name": "מפת פראג - המדריך שלי",
   "short_name": "פראג",
   "description": "מפה אינטראקטיבית של פראג עם כל המקומות המומלצים",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
